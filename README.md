@@ -1,8 +1,6 @@
 # Chat App
 
-Page 1                |  Page 2
-:-------------------------:|:-------------------------:
-![](images/app.png)  |  ![](images/p2.png)
+![](images/app.png) 
 
 ## Getting Started
 
